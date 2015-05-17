@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/libs/achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6b9f421d67b60253072003b2b8a1028b12cb916a">
+        <dex dex="/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/build/intermediates/pre-dexed/debug/achartengine-1.1.0-fcaceca8bbc7762a83fb1de5ab3ff087be559372.jar" />
+    </item>
+    <item
+        jar="/Users/Tanay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-7a57e8d8c3c3ddb2609d34f46facccf204cc1b2c.jar" />
+    </item>
+    <item
+        jar="/Users/Tanay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-57944ebf0ec9067d835ec0b1f7cb93c5dc6cad45.jar" />
+    </item>
+    <item
+        jar="/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/libs/Parse-1.9.1/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-860ea8b41d6f8f6724947effda45186ec9724f05.jar" />
+    </item>
+
+</items>

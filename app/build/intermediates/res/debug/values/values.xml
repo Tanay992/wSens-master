@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="backgroundEnd">#ffffff</color>
+    <color name="backgroundStart">#ffffff</color>
+    <color name="deviceListColor">#3d3b37</color>
+    <color name="labelTextColor">#F2F1ED</color>
+    <color name="orange">#b9f98c06</color>
+    <color name="red">#FF0000	</color>
+    <color name="scrollBackground">#ffffff</color>
+    <color name="yellow">#ffff00</color>
+    <!-- From: file:/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Wearsens Analytics</string>
+    <string name="drawer_close"/>
+    <string name="drawer_open">Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/Users/Tanay/Desktop/Coursework/Research/wSens-master/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
